@@ -1,0 +1,132 @@
+[
+  {
+    "id": 1,
+    "images": "deptos/depto1",
+    "title": "Departamento 1"
+  },
+  {
+    "id": 2,
+    "images": "deptos/depto2",
+    "title": "Departamento 2"
+  },
+  {
+    "id": 3,
+    "images": "deptos/depto3",
+    "title": "Departamento 3"
+  },
+  {
+    "id": 4,
+    "images": "deptos/depto4",
+    "title": "Departamento 4"
+  },
+  {
+    "id": 5,
+    "images": "deptos/depto5",
+    "title": "Departamento 5"
+  },
+  {
+    "id": 6,
+    "images": "deptos/depto6",
+    "title": "Departamento 6"
+  },
+  {
+    "id": 7,
+    "images": "deptos/depto7",
+    "title": "Departamento 7"
+  },
+  {
+    "id": 8,
+    "images": "deptos/depto8",
+    "title": "Departamento 8"
+  },
+  {
+    "id": 9,
+    "images": "deptos/depto9",
+    "title": "Departamento 9"
+  },
+  {
+    "id": 10,
+    "images": "deptos/depto10",
+    "title": "Departamento 10"
+  },
+  {
+    "id": 11,
+    "images": "deptos/depto11",
+    "title": "Departamento 11"
+  },
+  {
+    "id": 12,
+    "images": "deptos/depto12",
+    "title": "Departamento 12"
+  },
+  {
+    "id": 13,
+    "images": "deptos/depto13",
+    "title": "Departamento 13"
+  },
+  {
+    "id": 14,
+    "images": "deptos/depto14",
+    "title": "Departamento 14"
+  },
+  {
+    "id": 15,
+    "images": "deptos/depto15",
+    "title": "Departamento 15"
+  },
+  {
+    "id": 16,
+    "images": "deptos/depto16",
+    "title": "Departamento 16"
+  },
+  {
+    "id": 17,
+    "images": "deptos/depto17",
+    "title": "Departamento 17"
+  },
+  {
+    "id": 18,
+    "images": "deptos/depto18",
+    "title": "Departamento 18"
+  },
+  {
+    "id": 19,
+    "images": "deptos/depto19",
+    "title": "Departamento 19"
+  },
+  {
+    "id": 20,
+    "images": "deptos/depto20",
+    "title": "Departamento 20"
+  },
+  {
+    "id": 21,
+    "images": "deptos/depto21",
+    "title": "Departamento 21"
+  },
+  {
+    "id": 22,
+    "images": "deptos/depto22",
+    "title": "Departamento 22"
+  },
+  {
+    "id": 23,
+    "images": "deptos/depto23",
+    "title": "Departamento 23"
+  },
+  {
+    "id": 24,
+    "images": "deptos/depto24",
+    "title": "Departamento 24"
+  },
+  {
+    "id": 25,
+    "images": "deptos/depto25",
+    "title": "Departamento 25"
+  },
+  {
+    "id": 26,
+    "images": "deptos/depto26",
+    "title": "Departamento 26"
+  }
+]
