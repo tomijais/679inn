@@ -2,7 +2,7 @@ import deptos from "../../../departamentos.json";
 import Image from "next/image";
 import fs from "fs";
 
-export default function Propiedad({ params }) {
+export default function Propiedad({ params }: { params: any }) {
   const { id, images, title } = deptos[params.id - 1];
   const imageDirectory = `public/${images}`;
 
