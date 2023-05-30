@@ -1,22 +1,21 @@
+import { Key } from "react";
 import deptos from "../../../departamentos.json";
 import Image from "next/image";
-import fs from "fs";
-import path from "path";
 
-export default function Propiedad({ params }: { params: any }) {
+
+export default async function Propiedad({ params }: { params: any }) {
   const { id, images, title } = deptos[params.id - 1];
-  const imageDirectory = path.join(process.cwd(), `public/${images}`);
+  
 
-  const imageFiles = fs.readdirSync(imageDirectory);
+  const response = await fetch(`http://localhost:3001/api/imageHandler?id=${params.id - 1}`);
+  const imageFiles = await response.json()
 
   return (
     <>
       <h1>Bienvenido al {title}</h1>
 
       <li key={id}>
-        {imageFiles.map((fileName) => {
-          console.log(`/${images}/${fileName}`);
-
+        {imageFiles.map((fileName: any ) => {
           return (
             <Image
               key={fileName}
