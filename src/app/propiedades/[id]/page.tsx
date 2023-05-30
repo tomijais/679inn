@@ -5,7 +5,7 @@ import path from "path";
 
 export default function Propiedad({ params }: { params: any }) {
   const { id, images, title } = deptos[params.id - 1];
-  const imageDirectory = path.resolve(`public/${images}`);
+  const imageDirectory = path.join(process.cwd(), `public/${images}`);
 
   const imageFiles = fs.readdirSync(imageDirectory);
 
