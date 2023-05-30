@@ -2,12 +2,12 @@ import { Key } from "react";
 import deptos from "../../../departamentos.json";
 import Image from "next/image";
 
-
+// TODO set state y use effect
 export default async function Propiedad({ params }: { params: any }) {
   const { id, images, title } = deptos[params.id - 1];
   
 
-  const response = await fetch(`http://localhost:3001/api/imageHandler?id=${params.id - 1}`);
+  const response = await fetch(`/api/imageHandler?id=${params.id - 1}`);
   const imageFiles = await response.json()
 
   return (
