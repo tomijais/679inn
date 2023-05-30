@@ -4,7 +4,7 @@ import fs from "fs";
 
 export default function Propiedad({ params }: { params: any }) {
   const { id, images, title } = deptos[params.id - 1];
-  const imageDirectory = `/${images}`;
+  const imageDirectory = `public/${images}`;
 
   const imageFiles = fs.readdirSync(imageDirectory);
 
