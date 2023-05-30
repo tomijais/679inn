@@ -4,7 +4,7 @@ import fs from "fs";
 
 export default function Propiedad({ params }: { params: any }) {
   const { id, images, title } = deptos[params.id - 1];
-  const imageDirectory = `public/${images}`;
+  const imageDirectory = `/${images}`;
 
   const imageFiles = fs.readdirSync(imageDirectory);
 
@@ -13,15 +13,19 @@ export default function Propiedad({ params }: { params: any }) {
       <h1>Bienvenido al {title}</h1>
 
       <li key={id}>
-        {imageFiles.map((fileName) => (
-          <Image
-            key={fileName}
-            alt={fileName}
-            src={`/${images}/${fileName}`}
-            width={100}
-            height={100}
-          />
-        ))}
+        {imageFiles.map((fileName) => {
+          console.log(`/${images}/${fileName}`);
+
+          return (
+            <Image
+              key={fileName}
+              alt={fileName}
+              src={`/${images}/${fileName}`}
+              width={100}
+              height={100}
+            />
+          );
+        })}
       </li>
     </>
   );
