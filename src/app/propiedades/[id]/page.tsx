@@ -13,15 +13,19 @@ export default function Propiedad({ params }: { params: any }) {
       <h1>Bienvenido al {title}</h1>
 
       <li key={id}>
-        {imageFiles.map((fileName) => (
-          <Image
-            key={fileName}
-            alt={fileName}
-            src={`/${images}/${fileName}`}
-            width={100}
-            height={100}
-          />
-        ))}
+        {imageFiles.map((fileName) => {
+          console.log(`/${images}/${fileName}`);
+
+          return (
+            <Image
+              key={fileName}
+              alt={fileName}
+              src={`/${images}/${fileName}`}
+              width={100}
+              height={100}
+            />
+          );
+        })}
       </li>
     </>
   );
