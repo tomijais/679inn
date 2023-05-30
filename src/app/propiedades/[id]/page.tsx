@@ -1,10 +1,11 @@
 import deptos from "../../../departamentos.json";
 import Image from "next/image";
 import fs from "fs";
+import path from "path";
 
 export default function Propiedad({ params }: { params: any }) {
   const { id, images, title } = deptos[params.id - 1];
-  const imageDirectory = `public/${images}`;
+  const imageDirectory = path.resolve(`public/${images}`);
 
   const imageFiles = fs.readdirSync(imageDirectory);
 
