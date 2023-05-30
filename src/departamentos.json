@@ -1,132 +1,317 @@
 [
   {
     "id": 1,
-    "images": "deptos/depto1",
-    "title": "Departamento 1"
+    "imageDir": "deptos/depto01",
+    "title": "Departamento 1",
+    "images": [
+      "depto1-1.jpg",
+      "depto1-2.jpg",
+      "depto1-3.jpg",
+      "depto1-4.jpg",
+      "depto1-5.jpg",
+      "depto1-6.jpg",
+      "depto1-7.jpg",
+      "img_departamentos_header.jpg"
+    ]
   },
   {
     "id": 2,
-    "images": "deptos/depto2",
-    "title": "Departamento 2"
+    "imageDir": "deptos/depto02",
+    "title": "Departamento 2",
+    "images": ["depto2-1.jpg", "depto2-2.jpg", "depto3-3.jpg"]
   },
   {
     "id": 3,
-    "images": "deptos/depto3",
-    "title": "Departamento 3"
+    "imageDir": "deptos/depto03",
+    "title": "Departamento 3",
+    "images": [
+      "001-1.jpg",
+      "002-1.jpg",
+      "003-1.jpg",
+      "004-1.jpg",
+      "005-1.jpg",
+      "36411499_1825607150838506_8034689947346665472_n.jpg",
+      "36445047_1795665313879513_3423766663571439616_n.jpg",
+      "36468189_1664003870315023_1106845692455813120_n.jpg",
+      "36518735_1991386160936262_3574306203599110144_n.jpg",
+      "36567566_1856812477675089_8078039524711596032_n.jpg"
+    ]
   },
   {
     "id": 4,
-    "images": "deptos/depto4",
-    "title": "Departamento 4"
+    "imageDir": "deptos/depto04",
+    "title": "Departamento 4",
+    "images": [
+      "001-2.jpg",
+      "002-2.jpg",
+      "003-2.jpg",
+      "004-2.jpg",
+      "22f85b38-0d8d-4a66-9923-980bb32370ee.jpg",
+      "6aa1b820-7d06-42f9-87e6-747a2b3232d3.jpg",
+      "DSC_0695-scaled.jpg",
+      "abbe1f2c-c285-4a92-ad9b-c33c8ccba5a3.jpg",
+      "b2798931-aa9f-4a66-92f2-b3b64faed46a.jpg"
+    ]
   },
   {
     "id": 5,
-    "images": "deptos/depto5",
-    "title": "Departamento 5"
+    "imageDir": "deptos/depto05",
+    "title": "Departamento 5",
+    "images": [
+      "005.jpg",
+      "21374306-7469-439b-b4fe-2928f95b2063.jpg",
+      "26df0e02-64ee-4e53-9c14-3d70782520de.jpg",
+      "28e80423-c7fb-4463-b25a-ddf1dce91d51.jpg",
+      "36387315_1826030147435030_4383641749138964480_n.jpg",
+      "36572898_1795299993851747_7335046809984696320_n-copia.jpg",
+      "5cc56427-933b-49b8-b70a-9bcd744fbfa0.jpg",
+      "a3e734ac-6ed9-46fa-ad89-c7a8a7334141.jpg",
+      "c505df06-8bc5-4787-894d-97e68fd993ea.jpg",
+      "f43b4652-eddf-4038-86cd-c9690b362f60.jpg"
+    ]
   },
   {
     "id": 6,
-    "images": "deptos/depto6",
-    "title": "Departamento 6"
+    "imageDir": "deptos/depto06",
+    "title": "Departamento 6",
+    "images": [
+      "001-4.jpg",
+      "002-4.jpg",
+      "005-1.jpg",
+      "DSC_0635-scaled.jpg",
+      "DSC_0640-scaled.jpg",
+      "DSC_0642-scaled (1).jpg",
+      "DSC_0642-scaled.jpg",
+      "WhatsApp-Image-2019-11-15-at-15.40.24.jpeg",
+      "WhatsApp-Image-2019-11-15-at-15.41.39.jpeg"
+    ]
   },
   {
     "id": 7,
-    "images": "deptos/depto7",
-    "title": "Departamento 7"
+    "imageDir": "deptos/depto07",
+    "title": "Departamento 7",
+    "images": [
+      "IMG_0628.jpg",
+      "IMG_0629.jpg",
+      "IMG_0632.jpg",
+      "IMG_0634.jpg",
+      "IMG_0637.jpg",
+      "IMG_0640.jpg",
+      "IMG_0641.jpg"
+    ]
   },
   {
     "id": 8,
-    "images": "deptos/depto8",
-    "title": "Departamento 8"
+    "imageDir": "deptos/depto08",
+    "title": "Departamento 8",
+    "images": [
+      "31912791_2070613299872163_6435163582794563584_n.jpg",
+      "5.png",
+      "7.png",
+      "DSC_0619-copia-scaled.jpg",
+      "DSC_0621-copia-scaled.jpg",
+      "DSC_0622-copia-scaled.jpg",
+      "DSC_0624-copia-scaled.jpg",
+      "DSC_0626-copia-scaled.jpg",
+      "DSC_0627-scaled.jpg"
+    ]
   },
   {
     "id": 9,
-    "images": "deptos/depto9",
-    "title": "Departamento 9"
+    "imageDir": "deptos/depto09",
+    "title": "Departamento 9",
+    "images": ["IMG_1505.jpg", "IMG_1506.jpg", "IMG_1508.jpg", "IMG_1511.jpg"]
   },
   {
     "id": 10,
-    "images": "deptos/depto10",
-    "title": "Departamento 10"
+    "imageDir": "deptos/depto10",
+    "title": "Departamento 10",
+    "images": [
+      "001-4.jpg",
+      "002-4.jpg",
+      "003-4.jpg",
+      "004-4.jpg",
+      "9b6994ba-41fc-4926-93b2-03981329a769.jpg",
+      "9ceba8e9-b712-4501-9f44-3eeb5c069992.jpg",
+      "DSC_0652-scaled.jpg",
+      "DSC_0654-scaled.jpg",
+      "WhatsApp-Image-2021-07-15-at-13.43.00-1.jpeg",
+      "bcc37d56-9815-4312-9262-95e589956bdd.jpg"
+    ]
   },
   {
     "id": 11,
-    "images": "deptos/depto11",
-    "title": "Departamento 11"
+    "imageDir": "deptos/depto11",
+    "title": "Departamento 11",
+    "images": [
+      "001-5.jpg",
+      "002-5.jpg",
+      "004-5.jpg",
+      "cocina2.jpg",
+      "ingreso.jpg",
+      "pasillo.jpg"
+    ]
   },
   {
     "id": 12,
-    "images": "deptos/depto12",
-    "title": "Departamento 12"
+    "imageDir": "deptos/depto12",
+    "title": "Departamento 12",
+    "images": ["IMG_1513.jpg", "IMG_1514.jpg", "IMG_1515.jpg", "IMG_1517.jpg"]
   },
   {
     "id": 13,
-    "images": "deptos/depto13",
-    "title": "Departamento 13"
+    "imageDir": "deptos/depto13",
+    "title": "Departamento 13",
+    "images": [
+      "003-7.jpg",
+      "004-7.jpg",
+      "005-4.jpg",
+      "1d85bae7-f9d4-4337-853f-1ff775b957c6.jpg",
+      "31880648_2070611903205636_6631884853161754624_n.jpg",
+      "31895178_2070612143205612_2941718857326264320_n.jpg",
+      "31913663_2070612703205556_8387266724663132160_n.jpg",
+      "31933377_2070612226538937_139204799210979328_n.jpg",
+      "3d5f0ac1-b516-445a-aeb4-74c5c02cb646.jpg"
+    ]
   },
   {
     "id": 14,
-    "images": "deptos/depto14",
-    "title": "Departamento 14"
+    "imageDir": "deptos/depto14",
+    "title": "Departamento 14",
+    "images": [
+      "1.jpg",
+      "2.jpg",
+      "3.jpg",
+      "4.jpg",
+      "5.jpg",
+      "6.jpg",
+      "7.jpg",
+      "9.jpg",
+      "DSC_0678-scaled.jpg"
+    ]
   },
   {
     "id": 15,
-    "images": "deptos/depto15",
-    "title": "Departamento 15"
+    "imageDir": "deptos/depto15",
+    "title": "Departamento 15",
+    "images": ["IMG_1518.jpg", "IMG_1519.jpg", "IMG_1521.jpg", "IMG_1522.jpg"]
   },
   {
     "id": 16,
-    "images": "deptos/depto16",
-    "title": "Departamento 16"
+    "imageDir": "deptos/depto16",
+    "title": "Departamento 16",
+    "images": [
+      "IMG_0608.jpg",
+      "IMG_0610.jpg",
+      "IMG_0614.jpg",
+      "IMG_0616.jpg",
+      "IMG_0618.jpg"
+    ]
   },
   {
     "id": 17,
-    "images": "deptos/depto17",
-    "title": "Departamento 17"
+    "imageDir": "deptos/depto17",
+    "title": "Departamento 17",
+    "images": [
+      "240449773_2996524430614374_478987388117502833_n-1.jpg",
+      "240464439_2996524510614366_8902425862533327178_n.jpg",
+      "240472180_2996524607281023_5872079931844108562_n.jpg",
+      "240493816_2996524473947703_1983884746444555755_n-1.jpg",
+      "241570186_2996524557281028_2632697307154875348_n.jpg",
+      "4060531c-3526-4c6f-bf4a-20c41cb0d867.jpg",
+      "WhatsApp-Image-2021-08-27-at-13.58.05.jpeg",
+      "a79b321b-d3e1-4c1f-9894-134b34591e26.jpg"
+    ]
   },
   {
     "id": 18,
-    "images": "deptos/depto18",
-    "title": "Departamento 18"
+    "imageDir": "deptos/depto18",
+    "title": "Departamento 18",
+    "images": [
+      "1.jpeg",
+      "11.jpeg",
+      "123.jpeg",
+      "21.jpeg",
+      "22.jpeg",
+      "6.jpeg",
+      "7.jpeg",
+      "8.jpeg",
+      "9.jpeg",
+      "99.jpeg"
+    ]
   },
   {
     "id": 19,
-    "images": "deptos/depto19",
-    "title": "Departamento 19"
+    "imageDir": "deptos/depto19",
+    "title": "Departamento 19",
+    "images": [
+      "IMG_1559.jpg",
+      "IMG_1560.jpg",
+      "IMG_1561.jpg",
+      "IMG_1563.jpg",
+      "IMG_1564.jpg",
+      "WhatsApp-Image-2022-01-29-at-4.50.52-PM-2.jpeg"
+    ]
   },
   {
     "id": 20,
-    "images": "deptos/depto20",
-    "title": "Departamento 20"
+    "imageDir": "deptos/depto20",
+    "title": "Departamento 20",
+    "images": ["IMG_0647.jpg", "IMG_0648.jpg", "IMG_0650.jpg", "IMG_0651.jpg"]
   },
   {
     "id": 21,
-    "images": "deptos/depto21",
-    "title": "Departamento 21"
+    "imageDir": "deptos/depto21",
+    "title": "Departamento 21",
+    "images": [
+      "WhatsApp Image 2023-04-24 at 23.31.26.jpeg",
+      "WhatsApp Image 2023-04-2s4 at 23.31.26.jpeg",
+      "WhatsApp Image 2023-04s-24 at 23.31.27.jpeg",
+      "WhatsApp Image 2023-0s-24 at 23.31.26.jpeg",
+      "WhatsApp Image 2023-0s4-24 at 23.31.27.jpeg",
+      "WhatsApp Images23-04-24 at 23.31.26.jpeg"
+    ]
   },
   {
     "id": 22,
-    "images": "deptos/depto22",
-    "title": "Departamento 22"
+    "imageDir": "deptos/depto22",
+    "title": "Departamento 22",
+    "images": ["001-8.jpg", "002-8.jpg", "003-8.jpg", "004-8.jpg"]
   },
   {
     "id": 23,
-    "images": "deptos/depto23",
-    "title": "Departamento 23"
+    "imageDir": "deptos/depto23",
+    "title": "Departamento 23",
+    "images": ["IMG_1566.jpg", "IMG_1567.jpg", "IMG_1568.jpg", "IMG_1569.jpg"]
   },
   {
     "id": 24,
-    "images": "deptos/depto24",
-    "title": "Departamento 24"
+    "imageDir": "deptos/depto24",
+    "title": "Departamento 24",
+    "images": []
   },
   {
     "id": 25,
-    "images": "deptos/depto25",
-    "title": "Departamento 25"
+    "imageDir": "deptos/depto25",
+    "title": "Departamento 25",
+    "images": [
+      "001-10.jpg",
+      "002-10.jpg",
+      "003-10.jpg",
+      "004-10.jpg",
+      "005-6.jpg"
+    ]
   },
   {
     "id": 26,
-    "images": "deptos/depto26",
-    "title": "Departamento 26"
+    "imageDir": "deptos/depto26",
+    "title": "Departamento 26",
+    "images": [
+      "123.jpg",
+      "d0d7cfc4-8d80-4d73-b0a4-4ffad5d9f66a.jpg",
+      "d1e5101e-4468-497d-a043-2ea6f0367cc3.jpg",
+      "d333c9a5-eccf-4713-82d6-ddc80aa9e297.jpg",
+      "e4b38679-cafb-44ea-96a4-8a60bc4f9a36.jpg"
+    ]
   }
 ]
