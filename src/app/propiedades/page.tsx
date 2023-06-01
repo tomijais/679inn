@@ -1,6 +1,5 @@
-
-import Link from 'next/link';
-import deptos from '../../departamentos.json'
+import Link from "next/link";
+import deptos from "../../departamentos.json";
 
 export default async function Propiedades() {
   return (
