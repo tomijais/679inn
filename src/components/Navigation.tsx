@@ -23,7 +23,7 @@ const links = [
 export function Navigation() {
   return (
     <header className="bg-black">
-      <nav>
+      <nav className=" container mx-auto">
         <div className="max-w-screen-xl flex items-center justify-between mx-auto p-4">
           <Link href="/" className="flex items-center">
             <Image
