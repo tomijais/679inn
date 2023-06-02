@@ -1,5 +1,3 @@
-import React from "react";
-
 const AccommodationInfo = () => {
   return (
     <div className="bg-gray-100 py-10 px-5">
