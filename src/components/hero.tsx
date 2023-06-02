@@ -1,4 +1,4 @@
-export const Hero = () => {
+export default function Hero () {
   return (
     <section className="w-full h-96 bg-hero-custom-pattern bg-cover bg-center flex justify-start items-center">
       <div className="container mx-auto">
