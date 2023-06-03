@@ -4,7 +4,7 @@ const Hero = () => {
       <div className="container mx-auto">
         <div className="flex justify-start items-center">
           <div className="flex flex-col justify-center items-center">
-            <h1 className="text-center text-6xl text-amber-500 font-bold drop-shadow-lg">
+            <h1 className="text-center text-6xl text-orange-600 font-bold drop-shadow-lg">
               Sentite
               <span className="text-white block"> como en casa</span>
             </h1>
