@@ -12,6 +12,9 @@ module.exports = {
         "gradient-conic":
           "conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))",
         "hero-custom-pattern": "url('/hero3.png')",
+        "homepage1-pattern": "url('/homepage/DSC_0678-scaled.jpg')",
+        "homepage2-pattern": "url('/homepage/IMG_0614.jpg')",
+        "homepage3-pattern": "url('/homepage/IMG_0616.jpg')",
       },
     },
   },
