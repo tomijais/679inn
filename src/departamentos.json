@@ -12,13 +12,19 @@
       "depto1-6.jpg",
       "depto1-7.jpg",
       "img_departamentos_header.jpg"
-    ]
+    ],
+    "price": "$8.252",
+    "price2": "$7.750",
+    "price3": "$1.927"
   },
   {
     "id": 2,
     "imageDir": "deptos/depto02",
     "title": "Departamento 2",
-    "images": ["depto2-1.jpg", "depto2-2.jpg", "depto3-3.jpg"]
+    "images": ["depto2-1.jpg", "depto2-2.jpg", "depto3-3.jpg"],
+    "price": "$8.170",
+    "price2": "$6.809",
+    "price3": "$5.287"
   },
   {
     "id": 3,
@@ -35,7 +41,10 @@
       "36468189_1664003870315023_1106845692455813120_n.jpg",
       "36518735_1991386160936262_3574306203599110144_n.jpg",
       "36567566_1856812477675089_8078039524711596032_n.jpg"
-    ]
+    ],
+    "price": "$8.639",
+    "price2": "$9.232",
+    "price3": "$5.414"
   },
   {
     "id": 4,
@@ -51,7 +60,10 @@
       "DSC_0695-scaled.jpg",
       "abbe1f2c-c285-4a92-ad9b-c33c8ccba5a3.jpg",
       "b2798931-aa9f-4a66-92f2-b3b64faed46a.jpg"
-    ]
+    ],
+    "price": "$8.770",
+    "price2": "$8.952",
+    "price3": "$8.659"
   },
   {
     "id": 5,
@@ -68,7 +80,10 @@
       "a3e734ac-6ed9-46fa-ad89-c7a8a7334141.jpg",
       "c505df06-8bc5-4787-894d-97e68fd993ea.jpg",
       "f43b4652-eddf-4038-86cd-c9690b362f60.jpg"
-    ]
+    ],
+    "price": "$9.942",
+    "price2": "$8.720",
+    "price3": "$6.093"
   },
   {
     "id": 6,
@@ -84,7 +99,10 @@
       "DSC_0642-scaled.jpg",
       "WhatsApp-Image-2019-11-15-at-15.40.24.jpeg",
       "WhatsApp-Image-2019-11-15-at-15.41.39.jpeg"
-    ]
+    ],
+    "price": "$6.391",
+    "price2": "$9.949",
+    "price3": "$3.866"
   },
   {
     "id": 7,
@@ -98,7 +116,10 @@
       "IMG_0637.jpg",
       "IMG_0640.jpg",
       "IMG_0641.jpg"
-    ]
+    ],
+    "price": "$2.332",
+    "price2": "$2.520",
+    "price3": "$6.436"
   },
   {
     "id": 8,
@@ -114,13 +135,19 @@
       "DSC_0624-copia-scaled.jpg",
       "DSC_0626-copia-scaled.jpg",
       "DSC_0627-scaled.jpg"
-    ]
+    ],
+    "price": "$9.138",
+    "price2": "$2.555",
+    "price3": "$9.383"
   },
   {
     "id": 9,
     "imageDir": "deptos/depto09",
     "title": "Departamento 9",
-    "images": ["IMG_1505.jpg", "IMG_1506.jpg", "IMG_1508.jpg", "IMG_1511.jpg"]
+    "images": ["IMG_1505.jpg", "IMG_1506.jpg", "IMG_1508.jpg", "IMG_1511.jpg"],
+    "price": "$3.686",
+    "price2": "$1.145",
+    "price3": "$9.736"
   },
   {
     "id": 10,
@@ -137,7 +164,10 @@
       "DSC_0654-scaled.jpg",
       "WhatsApp-Image-2021-07-15-at-13.43.00-1.jpeg",
       "bcc37d56-9815-4312-9262-95e589956bdd.jpg"
-    ]
+    ],
+    "price": "$4.714",
+    "price2": "$1.005",
+    "price3": "$1.380"
   },
   {
     "id": 11,
@@ -150,13 +180,19 @@
       "cocina2.jpg",
       "ingreso.jpg",
       "pasillo.jpg"
-    ]
+    ],
+    "price": "$9.200",
+    "price2": "$4.691",
+    "price3": "$7.694"
   },
   {
     "id": 12,
     "imageDir": "deptos/depto12",
     "title": "Departamento 12",
-    "images": ["IMG_1513.jpg", "IMG_1514.jpg", "IMG_1515.jpg", "IMG_1517.jpg"]
+    "images": ["IMG_1513.jpg", "IMG_1514.jpg", "IMG_1515.jpg", "IMG_1517.jpg"],
+    "price": "$380",
+    "price2": "$5.792",
+    "price3": "$7.127"
   },
   {
     "id": 13,
@@ -172,7 +208,10 @@
       "31913663_2070612703205556_8387266724663132160_n.jpg",
       "31933377_2070612226538937_139204799210979328_n.jpg",
       "3d5f0ac1-b516-445a-aeb4-74c5c02cb646.jpg"
-    ]
+    ],
+    "price": "$338",
+    "price2": "$1.895",
+    "price3": "$9.212"
   },
   {
     "id": 14,
@@ -188,13 +227,19 @@
       "7.jpg",
       "9.jpg",
       "DSC_0678-scaled.jpg"
-    ]
+    ],
+    "price": "$3.727",
+    "price2": "$8.346",
+    "price3": "$7.018"
   },
   {
     "id": 15,
     "imageDir": "deptos/depto15",
     "title": "Departamento 15",
-    "images": ["IMG_1518.jpg", "IMG_1519.jpg", "IMG_1521.jpg", "IMG_1522.jpg"]
+    "images": ["IMG_1518.jpg", "IMG_1519.jpg", "IMG_1521.jpg", "IMG_1522.jpg"],
+    "price": "$8.543",
+    "price2": "$8.543",
+    "price3": "$4.043"
   },
   {
     "id": 16,
@@ -206,7 +251,10 @@
       "IMG_0614.jpg",
       "IMG_0616.jpg",
       "IMG_0618.jpg"
-    ]
+    ],
+    "price": "$2.326",
+    "price2": "$6.180",
+    "price3": "$7.467"
   },
   {
     "id": 17,
@@ -221,7 +269,10 @@
       "4060531c-3526-4c6f-bf4a-20c41cb0d867.jpg",
       "WhatsApp-Image-2021-08-27-at-13.58.05.jpeg",
       "a79b321b-d3e1-4c1f-9894-134b34591e26.jpg"
-    ]
+    ],
+    "price": "$1.568",
+    "price2": "$2.810",
+    "price3": "$6.672"
   },
   {
     "id": 18,
@@ -238,7 +289,10 @@
       "8.jpeg",
       "9.jpeg",
       "99.jpeg"
-    ]
+    ],
+    "price": "$6.381",
+    "price2": "$417",
+    "price3": "$6.436"
   },
   {
     "id": 19,
@@ -251,13 +305,19 @@
       "IMG_1563.jpg",
       "IMG_1564.jpg",
       "WhatsApp-Image-2022-01-29-at-4.50.52-PM-2.jpeg"
-    ]
+    ],
+    "price": "$1.574",
+    "price2": "$5.639",
+    "price3": "$2.004"
   },
   {
     "id": 20,
     "imageDir": "deptos/depto20",
     "title": "Departamento 20",
-    "images": ["IMG_0647.jpg", "IMG_0648.jpg", "IMG_0650.jpg", "IMG_0651.jpg"]
+    "images": ["IMG_0647.jpg", "IMG_0648.jpg", "IMG_0650.jpg", "IMG_0651.jpg"],
+    "price": "$7.002",
+    "price2": "$2.257",
+    "price3": "$783"
   },
   {
     "id": 21,
@@ -270,25 +330,37 @@
       "WhatsApp Image 2023-0s-24 at 23.31.26.jpeg",
       "WhatsApp Image 2023-0s4-24 at 23.31.27.jpeg",
       "WhatsApp Images23-04-24 at 23.31.26.jpeg"
-    ]
+    ],
+    "price": "$4.460",
+    "price2": "$2.475",
+    "price3": "$9.020"
   },
   {
     "id": 22,
     "imageDir": "deptos/depto22",
     "title": "Departamento 22",
-    "images": ["001-8.jpg", "002-8.jpg", "003-8.jpg", "004-8.jpg"]
+    "images": ["001-8.jpg", "002-8.jpg", "003-8.jpg", "004-8.jpg"],
+    "price": "$3.847",
+    "price2": "$2.411",
+    "price3": "$8.322"
   },
   {
     "id": 23,
     "imageDir": "deptos/depto23",
     "title": "Departamento 23",
-    "images": ["IMG_1566.jpg", "IMG_1567.jpg", "IMG_1568.jpg", "IMG_1569.jpg"]
+    "images": ["IMG_1566.jpg", "IMG_1567.jpg", "IMG_1568.jpg", "IMG_1569.jpg"],
+    "price": "$6.268",
+    "price2": "$3.377",
+    "price3": "$5.547"
   },
   {
     "id": 24,
     "imageDir": "deptos/depto24",
     "title": "Departamento 24",
-    "images": []
+    "images": ["34669515180_4f6db56d4f_b.jpg"],
+    "price": "$2.314",
+    "price2": "$9.240",
+    "price3": "$5.542"
   },
   {
     "id": 25,
@@ -300,7 +372,10 @@
       "003-10.jpg",
       "004-10.jpg",
       "005-6.jpg"
-    ]
+    ],
+    "price": "$872",
+    "price2": "$3.872",
+    "price3": "$2.602"
   },
   {
     "id": 26,
@@ -312,6 +387,9 @@
       "d1e5101e-4468-497d-a043-2ea6f0367cc3.jpg",
       "d333c9a5-eccf-4713-82d6-ddc80aa9e297.jpg",
       "e4b38679-cafb-44ea-96a4-8a60bc4f9a36.jpg"
-    ]
+    ],
+    "price": "$321",
+    "price2": "$3.702",
+    "price3": "$884"
   }
 ]

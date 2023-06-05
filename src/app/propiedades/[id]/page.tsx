@@ -10,7 +10,6 @@ export default async function Propiedad({ params }: { params: any }) {
     <>
       <h1>Bienvenido al {title}</h1>
 
-      <li key={id}>
         {images.map((fileName: any) => {
           return (
             <Image
@@ -22,7 +21,6 @@ export default async function Propiedad({ params }: { params: any }) {
             />
           );
         })}
-      </li>
     </>
   );
 }
